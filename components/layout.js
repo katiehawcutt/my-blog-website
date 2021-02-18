@@ -5,17 +5,14 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
 const name = "Katie Hawcutt";
-export const siteTitle = "Next.js Sample Website";
+export const siteTitle = "Katie's Blog";
 
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="Learn how to build a personal website using Next.js"
-        />
+        <meta name="description" content="Katie Hawcutt's blog" />
         <meta
           property="og:image"
           content={`https://og-image.vercel.app/${encodeURI(
@@ -24,6 +21,8 @@ export default function Layout({ children, home }) {
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
+        <meta charSet="utf-8" />
+        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
       </Head>
       <header className={styles.header}>
         {home ? (

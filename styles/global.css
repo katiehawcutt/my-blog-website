@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Newsreader&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Newsreader;
+  line-height: 1.6;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: #0070f3;
+  text-decoration: none;
+  font-family: Newsreader;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

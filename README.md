@@ -6,9 +6,9 @@
 
 _This is the first site I built with Next.js and it's deployed using Vercel. It's a simple blog website with a homepage and links to individual blog posts using dynamic routes._
 
-![Blog homepage](./public/images/home-screenshot.png)
+![Blog homepage](./public/images/home-screenshot.PNG)
 
-![Blog article page](./public/images/blog-screenshot.png)
+![Blog article page](./public/images/blog-screenshot.PNG)
 
 ## Main Learning Points:
 
@@ -28,7 +28,7 @@ _This is the first site I built with Next.js and it's deployed using Vercel. It'
 - pages that begin with `[` and end with `]` are dynamic routes in Next.js.
 - how to link to a page with dynamic routes.
 
-![Useful picture explaining how to generate dynamic routes](./public/images/dynamic-routes.png)
+![Useful picture explaining how to generate dynamic routes](./public/images/dynamic-routes.PNG)
 
 - how to render markdown using [remark](https://github.com/remarkjs/remark).
 - how to deploy my Next.js app with Vercel. It was really quick and easy!

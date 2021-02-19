@@ -7,7 +7,7 @@ date: "2020-09-01"
 
 #### I guess we'll start with the basics...
 
-I'm 31, I live in Birmingham, I play the saxophone, I love music, art and design, I'm a plant mom, I love the outdoors, travelling, climbing mountains and wild swimming, I enjoy baking, gardening and cycling, I love food (cooking and eating), and more recently (and excitingly) I have come to love coding!
+I'm 32, I live in Birmingham, I play the saxophone, I love music, art and design, I'm a plant mom, I love the outdoors, travelling, climbing mountains and wild swimming, I enjoy baking, gardening and cycling, I love food (cooking and eating), and more recently (and excitingly) I have come to love coding!
 
 #### My early years...
 
